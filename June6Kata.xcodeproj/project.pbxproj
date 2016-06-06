@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					9F579AAA1D05AAE900C26C9E = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = QS2H85Z9GF;
+						DevelopmentTeam = 4VV96EYWM8;
 					};
 				};
 			};
@@ -252,6 +252,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = June6Kata/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Trial.June6Kata;
@@ -263,6 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = June6Kata/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Trial.June6Kata;
